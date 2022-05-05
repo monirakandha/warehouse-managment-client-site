@@ -1,0 +1,65 @@
+[
+    {
+      "id": "624ad7f1e6b132761607debe",
+      "rating": 1,
+      "name": "Townsend Clay",
+      "picture": "https://www.mecgale.com/wp-content/uploads/2017/08/dummy-profile.png",
+      "reviewdate": "2022-02-22T12:12:04 -06:00",
+      "reviewTitle": "Marlene Randolph",
+      "review": "Excellent products and very good services. Keep your service this level. I recommended to buy from this shop.\r\n"
+    },
+    {
+      "id": "624ad7f1f54473ceafe530cd",
+      "rating": 4,
+      "name": "Kaye Kirkland",
+      "picture": "https://www.mecgale.com/wp-content/uploads/2017/08/dummy-profile.png",
+      "reviewdate": "2022-02-20T11:05:33 -06:00",
+      "reviewTitle": "Oneal Blanchard",
+      "review": "I recommended to buy from this shop. Excellent products and very good services. Keep your service this level. \r\n"
+    },
+    {
+      "id": "624ad7f14584403b42fc877b",
+      "rating": 0,
+      "name": "Deborah Booth",
+      "picture": "https://www.mecgale.com/wp-content/uploads/2017/08/dummy-profile.png",
+      "reviewdate": "2022-01-23T11:58:56 -06:00",
+      "reviewTitle": "Willa Beck",
+      "review": "Keep your service this level. Excellent products and very good services.  I recommended to buy from this shop.\r\n"
+    },
+    {
+      "id": "624ad7f16b64dd36a1bcf2b4",
+      "rating": 5,
+      "name": "Renee Rose",
+      "picture": "https://www.mecgale.com/wp-content/uploads/2017/08/dummy-profile.png",
+      "reviewdate": "2022-01-29T03:31:42 -06:00",
+      "reviewTitle": "Massey Diaz",
+      "review": "Very good service. Nice behaviour. Perfect costing. I'm setisfied\r\n"
+    },
+    {
+      "id": "624ad7f1a160425055347810",
+      "rating": 1,
+      "name": "Pratt Soto",
+      "picture": "https://www.mecgale.com/wp-content/uploads/2017/08/dummy-profile.png",
+      "reviewdate": "2022-02-23T09:43:32 -06:00",
+      "reviewTitle": "Copeland Nguyen",
+      "review": "Do consectetur labore tempor do fugiat laboris ullamco consectetur est nulla eu qui duis. Laboris proident adipisicing eu commodo fugiat velit. Dolore culpa aliquip exercitation elit ex in amet ullamco do. Aliquip aute laborum excepteur ex minim nostrud eiusmod fugiat minim elit ut dolore. Labore ipsum ex labore deserunt. Minim eu ullamco amet Lorem ex labore sit excepteur aliquip. Consequat ea irure deserunt in ea excepteur ea reprehenderit amet.\r\n"
+    },
+    {
+      "id": "624ad7f10746e9025a98e459",
+      "rating": 5,
+      "name": "Dalton Jackson",
+      "picture": "https://www.mecgale.com/wp-content/uploads/2017/08/dummy-profile.png",
+      "reviewdate": "2022-01-31T11:15:52 -06:00",
+      "reviewTitle": "Ross Adkins",
+      "review": "In voluptate et incididunt consectetur non. In excepteur enim velit aliqua labore id tempor mollit. Laboris excepteur consequat reprehenderit ex consectetur velit ea commodo dolore. Velit pariatur eiusmod deserunt aute duis dolore aliqua do quis aute laboris.\r\n"
+    },
+    {
+      "id": "624ad7f1a2cbe10897ffafdd",
+      "rating": 3,
+      "name": "Virginia Chen",
+      "picture": "https://www.mecgale.com/wp-content/uploads/2017/08/dummy-profile.png",
+      "reviewdate": "2022-01-19T05:44:54 -06:00",
+      "reviewTitle": "Snyder Conway",
+      "review": "Aliquip officia reprehenderit officia eiusmod occaecat ad ad reprehenderit tempor qui dolor ea duis eu. Velit enim laboris aute proident laboris culpa. Cupidatat enim Lorem culpa sint Lorem ad velit deserunt duis officia ut ut laborum sunt.\r\n"
+    }
+  ]
