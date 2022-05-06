@@ -1,4 +1,5 @@
 import React from "react";
+import "./OurFeature.css"
 import One from  "../../../images/one.png";
 import Two from  "../../../images/two.png";
 import Three from  "../../../images/three.png";
@@ -7,7 +8,7 @@ const OurFeature = () => {
   return (
     <div>
       <div className="container">
-          <h1 className="text-center">Why We are Best</h1>
+          <h1 className="text-center feature-heade">Why We are Best</h1>
         <div className="align-items-center row">
           <div class="col-md-4 ">
             <div>

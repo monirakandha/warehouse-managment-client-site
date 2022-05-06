@@ -10,7 +10,6 @@ const Book = ({book}) => {
   }
   return (
     <div>
-      <h2>this is single book</h2>
       <Card style={{ width: "18rem" }}>
         <Card.Img variant="top" src={picture} />
         <Card.Body>

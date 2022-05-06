@@ -1,7 +1,10 @@
 import React, { useEffect, useState } from 'react';
+import { Button } from 'react-bootstrap';
+import { Navigate, useNavigate } from 'react-router-dom';
 import Book from  "../Book/Book"
 const Books = ({book}) => {
   const [books , setBooks] = useState([]);
+  const navigate = useNavigate();
   useEffect( () => {
     fetch('http://localhost:5000/book')
     .then(res => res.json())
@@ -17,6 +20,12 @@ const Books = ({book}) => {
         }
       </div>
     </div>
+    <div class="container bg-light">
+        <div class="col-md-12 text-center">
+            <button onClick={() => navigate('/allbooks') } type="button" class="btn btn-primary">Manage All Books</button>
+        </div>
+    </div>
+  
     </div>
   );
 };
