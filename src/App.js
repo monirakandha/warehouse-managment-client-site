@@ -7,6 +7,10 @@ import About from './Pages/About/About';
 import Blog from './Pages/Blog/Blog';
 import Login from './Pages/Login/Login/Login';
 import Register from './Pages/Login/Register/Register';
+import Books from './Pages/Home/Books/Books';
+import BookDetails from './Pages/Home/BookDetails/BookDetails'
+import RequireAuth from './Pages/Login/RequireAuth/RequireAuth';
+import AllBooks from './Pages/AllBooks/AllBooks';
 
 function App() {
   return (
@@ -15,6 +19,12 @@ function App() {
       <Routes>
       <Route path='/' element={<Home></Home>}></Route>
           <Route path='/home' element={<Home></Home>}></Route>
+          <Route path='/book/:id' element={<RequireAuth>
+            <BookDetails></BookDetails>
+          </RequireAuth>}></Route>
+          <Route path='/allbooks' element={<RequireAuth>
+            <AllBooks></AllBooks>
+          </RequireAuth>}></Route>
           <Route path='/about' element={<About></About>}></Route>
           <Route path='/blog' element={<Blog></Blog>}></Route>
           <Route path='/login' element={<Login></Login>}></Route>
