@@ -20,7 +20,7 @@ const Books = ({book}) => {
         }
       </div>
     </div>
-    <div class="container bg-light">
+    <div class="container">
         <div class="col-md-12 text-center">
             <button onClick={() => navigate('/allbooks') } type="button" class="btn btn-primary">Manage All Books</button>
         </div>

@@ -32,6 +32,11 @@ const Header = () => {
                   ALL Books
                 </Nav.Link>
               )}
+              {user && (
+                <Nav.Link as={Link} to="/addbook" activeClassName="selected">
+                  Add Book
+                </Nav.Link>
+              )}
 
               <Nav.Link as={Link} to="/about">
                 About

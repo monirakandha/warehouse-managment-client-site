@@ -11,6 +11,7 @@ import Books from './Pages/Home/Books/Books';
 import BookDetails from './Pages/Home/BookDetails/BookDetails'
 import RequireAuth from './Pages/Login/RequireAuth/RequireAuth';
 import AllBooks from './Pages/AllBooks/AllBooks';
+import AddBook from './Pages/AddBook/AddBook';
 
 function App() {
   return (
@@ -24,6 +25,9 @@ function App() {
           </RequireAuth>}></Route>
           <Route path='/allbooks' element={<RequireAuth>
             <AllBooks></AllBooks>
+          </RequireAuth>}></Route>
+          <Route path='/addbook' element={<RequireAuth>
+            <AddBook></AddBook>
           </RequireAuth>}></Route>
           <Route path='/about' element={<About></About>}></Route>
           <Route path='/blog' element={<Blog></Blog>}></Route>
