@@ -3,7 +3,7 @@ import { Button, Card } from 'react-bootstrap';
 import { useNavigate } from 'react-router-dom';
 
 const Book = ({book}) => {
-  const { _id, name, picture, description , price , instock} = book;
+  const { _id, name, img, description , price , quantity} = book;
   const navigate = useNavigate();
   const navigateToBookDetails = id => {
     navigate(`/book/${id}`);
@@ -11,14 +11,14 @@ const Book = ({book}) => {
   return (
     <div>
       <Card style={{ width: "18rem" }}>
-        <Card.Img variant="top" src={picture} />
+        <Card.Img variant="top" src={img} />
         <Card.Body>
           <Card.Title>{name}</Card.Title>
           <Card.Text>
           ${price}
           </Card.Text>
           <Card.Text>
-          <b>Instock : {instock}</b>
+          <b>Instock : {quantity}</b>
           </Card.Text>
           <Card.Text>
           {description}

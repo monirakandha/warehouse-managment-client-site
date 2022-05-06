@@ -3,47 +3,47 @@
     
       "name": "In Search of Lost Time",
       "description": "Swann's Way, the first part of A la recherche de temps perdu, Marcel Proust's seven-part cycle, was published in 1913. In it, Proust introduces the themes that run through the entire work.\r\n",
-      "picture": "https://kbimages1-a.akamaihd.net/0e77a0f9-14f7-4a97-9784-053bc1691e87/1200/1200/False/in-search-of-lost-time-volumes-1-to-7-8.jpg",
+      "img": "https://kbimages1-a.akamaihd.net/0e77a0f9-14f7-4a97-9784-053bc1691e87/1200/1200/False/in-search-of-lost-time-volumes-1-to-7-8.jpg",
       "price": "$ 100",
-      "instock": "10"
+      "quantity": "10"
     },
         {
  
       "name": "Ulysses",
       "description": "Ulysses chronicles the passage of Leopold Bloom through Dublin during an ordinary day, June 16, 1904. The title parallels and alludes to Odysseus.\r\n",
-      "picture": "https://upload.wikimedia.org/wikipedia/commons/a/ab/JoyceUlysses2.jpg",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/JoyceUlysses2.jpg",
       "price": "$ 200",
-      "instock": "10"
+      "quantity": "10"
     },
         {
   
       "name": "Don Quixote ",
       "description": "Alonso Quixano, a retired country gentleman in his fifties, lives in an unnamed section of La Mancha with his niece and a housekeeper.\r\n",
-      "picture": "https://m.media-amazon.com/images/I/51iQq6ZYedL.jpg",
+      "img": "https://m.media-amazon.com/images/I/51iQq6ZYedL.jpg",
       "price": "$ 100",
-      "instock": "10"
+      "quantity": "10"
     },
         {
    
       "name": "One Hundred Years of Solitude",
       "description": "One of the 20th century's enduring works, One Hundred Years of Solitude is a widely beloved and acclaimed novel known throughout the world, and the ultimate achievement in a Nobel Prizewinning car.\r\n",
-      "picture": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354829590l/7597.jpg",
+      "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354829590l/7597.jpg",
       "price": "$ 100",
-      "instock": "10"
+      "quantity": "10"
     },
         {
       
       "name": "The Great Gatsby",
       "description": "The novel chronicles an era that Fitzgerald himself dubbed the Jazz Age. Following the shock and chaos of World War I, American society enjoyed unprecedented levels of prosperity during the.\r\n",
-      "picture": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146702/the-great-gatsby-9781982146702_hr.jpg",
+      "img": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146702/the-great-gatsby-9781982146702_hr.jpg",
       "price": "$ 100",
-      "instock": "10"
+      "quantity": "10"
     },
         {
       "name": "Moby Dick",
       "description": "First published in 1851, Melville's masterpiece is, in Elizabeth Hardwick's words,  The saga of Captain Ahab and his monomaniacal pursuit.\r\n",
-      "picture": "https://images-na.ssl-images-amazon.com/images/I/41VnFKC9srL._SX346_BO1,204,203,200_.jpg",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/41VnFKC9srL._SX346_BO1,204,203,200_.jpg",
       "price": "$ 100",
-      "instock": "10"
+      "quantity": "10"
     }
   ]
