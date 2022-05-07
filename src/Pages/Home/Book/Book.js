@@ -23,7 +23,7 @@ const Book = ({book}) => {
           <Card.Text>
           {description}
           </Card.Text>
-          <Button onClick={() => navigateToBookDetails (_id)} variant="primary">Get book</Button>
+          <Button onClick={() => navigateToBookDetails (_id)} variant="primary">Stock Update</Button>
         </Card.Body>
       </Card>
     </div>
